@@ -10,6 +10,10 @@ A test that proves that the user story is working as it should
 2. A test case that proves that I can fetch a FiscalTransfer
 3. A test case that proves that I can fetch an Interest payment
 
+### Manual Test Plans
+
+Please check manual test plan in this file **Manual Testcases For CLPT_20XX.xlsx** 
+
 ### Tools needed for this excercise:
 
 Visual Studio 2022 with .Net6
